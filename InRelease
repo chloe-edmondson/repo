@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Wed, 24 Jan 2024 02:34:10 +0000
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages
+ 8987b8a667e1bf7ac3d1482978205ee9               29 Packages.gz
+ c5c1d71dcd1f42c4a2b4aeea2e6a02ac               38 Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
+ 9ffc928d973135ddc800d3390aad429c8a9973da               29 Packages.gz
+ 157a55717c95f99df645e6d2360278e490e0fa44               38 Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
+ f68d8a05e5f146c52ff0eed73a5c9f70c4acd10a1f34fabc261b6ea0937496d6               29 Packages.gz
+ 0a0b22f9af67150d46ca59831c23b7a0fb990193447e85e88208dcb49dc2ca5b               38 Release
+SHA512:
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
+ 7969c65b43816c316b9360542cc8596fbdc900634bfb3065a5d030e0a4b89173ae701cffde2b81c6372028adb45fa2b9f4de1d8a8387b71e480f2f56595dd7b9               29 Packages.gz
+ c54e1fb8b66c53926f116ebad38e0800322435a05dfc5cc5a58e0cc09e45971a65ecd768a14f5f255e3a36619214fdc4af98bc27425d45d92e685a7fc1c5783a               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEzWUnDU+SY/VTQOcv9eXq3jnNmqoFAmWwd3kACgkQ9eXq3jnN
+mqrhGg/8Dl6v9qqnpIPQT+WGIzOGFRSO/j64C22zon5rjq3bl1mWJtFPyy1Q0T4v
+cf7R/lfX+haxoyRdqYS1hah2lnAvndCP35/q2mWpiBjW5l6Z4qy/2+Z9jcCRvOgr
+BxBXbTnnq0rrCkRHXlewfXIVhpdbBbSJZwvQkoU26i9wXqKCAM0GKXVirVo0w77Q
+S/URUJRaUGiaQUkHsF57W42bQ/+5qmwMjHeSifFuusS10/WzPSjVGRpQUHiaG4ob
+ui/osDHRcZjIZE4wyJ2PTvoMhc/WbkjarAzvXZvsbk7FpmN2dxGR1M6Ia8QN7kZM
+WYIrCIEv26fiMm/52TseKS7fvApbftDMVoQgxWzFBqnQd7zPWdZd59G59TT6nWDM
+OMo2kuaqHvjpfyqdoUIfTkn2iG7BXltmVCdYHJftwZmoRTAykwc6CDuZqGCP03r3
+15U5RoyZBm1OfFERN4DVvyNP/uhciAz/NYpFcnizZsLIIYAdtdJZkm4fb06S1UWf
+7TxkoXrjr3zT1JIPIqCuo/QUwB7TzRv+MSvdVPm9+Mi9/s1nrn9eCvz/e60RhrI3
+efXFHZb3TwKNllFd8CVTrTrnWtbWqyJbYHAnKN6ZXgHKqMN8PKRxgbtHynKxddGO
+cdMldw/Q4KLotfpJumV56AXAfvRKll1ugzly0rNR1ZHmR+AvGKE=
+=nmKc
+-----END PGP SIGNATURE-----
